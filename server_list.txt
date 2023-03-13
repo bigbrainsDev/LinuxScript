@@ -1,4 +1,4 @@
-// List all the servers in this txt file
+# List all the servers in this txt file
 server1.example.com
 server2.example.com
 server3.example.com
